@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psytch-01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julio-cesar-agusso/)<nbsp><nbsp>[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Psytch-01)<nbsp><nbsp>[![DIO](https://img.shields.io/badge/DIO-31A8FF?style=flat&logo=google-classroom)](https://web.dio.me/users/juliocesar_002)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julio-cesar-agusso/)<nbsp><nbsp>|<nbsp><nbsp>[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Psytch-01)<nbsp><nbsp>|<nbsp><nbsp>[![DIO](https://img.shields.io/badge/DIO-31A8FF?style=flat&logo=google-classroom)](https://web.dio.me/users/juliocesar_002)  
 
 ## Tecnologias e Ferramentas  
 ### Linguagens  
@@ -21,9 +21,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)  
 
 ### Ferramentas  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)<nbsp><nbsp>|<nbsp><nbsp>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)<nbsp><nbsp>|<nbsp><nbsp>![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ### Banco de Dados  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
