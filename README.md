@@ -27,7 +27,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
 
 ## Repositórios relevantes  
-[![Estudos-Java-Basico](https://github-readme-stats.vercel.app/api/pin/?username=Psytch-01&repo=Estudos-Java-basico&theme=radical)](https://github.com/Psytch-01/Estudos-Java-Basico)  
----
-
-[![Exercicios-Java](https://github-readme-stats.vercel.app/api/pin/?username=Psytch-01&repo=Exercicios-Java&theme=radical)](https://github.com/Psytch-01/Exercicios-Java)
+[![Estudos-Java-Basico](https://github-readme-stats.vercel.app/api/pin/?username=Psytch-01&repo=Estudos-Java-basico&theme=radical)](https://github.com/Psytch-01/Estudos-Java-Basico)             [![Exercicios-Java](https://github-readme-stats.vercel.app/api/pin/?username=Psytch-01&repo=Exercicios-Java&theme=radical)](https://github.com/Psytch-01/Exercicios-Java)
