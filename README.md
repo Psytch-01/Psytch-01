@@ -11,9 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psytch-01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julio-cesar-agusso/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Psytch-01)  
-[![DIO](https://img.shields.io/badge/DIO-31A8FF?style=flat&logo=google-classroom)](https://web.dio.me/users/juliocesar_002)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julio-cesar-agusso/)<nbsp><nbsp>[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Psytch-01)<nbsp><nbsp>[![DIO](https://img.shields.io/badge/DIO-31A8FF?style=flat&logo=google-classroom)](https://web.dio.me/users/juliocesar_002)  
 
 ## Tecnologias e Ferramentas  
 ### Linguagens  
