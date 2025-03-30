@@ -8,7 +8,7 @@
 - Acredito que a chave para um bom código está na compreensão dos problemas, no planejamento das soluções e na busca por implementações eficientes
 
 ## Status no GitHub  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psytch&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Psytch-01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/julio-cesar-agusso/)  
