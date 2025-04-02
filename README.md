@@ -37,4 +37,4 @@
 
 ## Repositórios relevantes  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Psytch-01&repo=Estudos-Java-Basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/Psytch-01/Estudos-Java-Basico)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Psytch-01&repo=Estudos-Java-Intermediario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00000&text_color=FFF)](https://github.com/Psytch-01/Estudos-Java-Intermediario)
