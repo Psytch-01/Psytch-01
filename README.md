@@ -2,10 +2,10 @@
 
 ## Sobre mim  
 
-- Estudante de Análise e Desenvolvimento de Sistemas na Mackenzie
-- Tenho 24 anos e sou de São Paulo - SP
-- Focado no desenvolvimento back-end, com ênfase em Java
-- Acredito que a chave para um bom código está na compreensão dos problemas, no planejamento das soluções e na busca por implementações eficientes
+- Estudante de Análise e Desenvolvimento de Sistemas na Mackenzie.
+- Tenho 24 anos e sou de São Paulo - SP.
+- Focado no desenvolvimento back-end, com ênfase em Java.
+- Acredito que a chave para um bom código está na compreensão dos problemas, no planejamento das soluções e na busca por implementações eficientes.
 
 ## Status no GitHub  
 ![Julio Cesar - Psytch-](https://github-readme-stats.vercel.app/api?username=Psytch-01&theme=github_dark&show_icons=true)
