@@ -1,4 +1,4 @@
-# Olá, meu nome é Julio Cesar, mas pode me chamar de Psytch! 👋
+# Olá, meu nome é Julio Cesar, mas pode me chamar de Psytch!👋
 
 ## Sobre mim  
 
